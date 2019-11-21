@@ -1,0 +1,2 @@
+# Sabit
+Sabit
